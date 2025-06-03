@@ -1,0 +1,35 @@
+#Digilent WaveForms Oscilloscope Measurements
+#Device Name: Discovery2
+#Serial Number: SN:210321AA2E82
+#Date Time: 2024-12-02 11:47:14.549
+#Sample rate: 5e+07Hz
+#Samples: 8192
+#Trigger: Source: Channel 1 Type: Edge Condition: Rising Level: 0 V Hyst.: Auto HoldOff: 0 s
+#Channel 1: Range: 1 V/div Offset: 0 V Attenuation: 1 X Sample Mode: Average
+#Channel 2: Range: 1 V/div Offset: 0 V Attenuation: 1 X Sample Mode: Average
+#Wavegen Channel 1: Enabled
+#Mode: Simple
+#Type: Square
+#Frequency: 1 kHz
+#Period: 1 ms
+#Amplitude: 2.46 V
+#Offset: 2.46 V
+#Symmetry: 50 %
+#Phase: 0 °
+#Power Supplies: ON
+#Positive Supply: ON
+#Voltage: 5 V
+#Negative Supply: ON
+#Voltage: -5 V
+
+,Extent,Name
+C1,Peak2Peak, 7.9794 V
+C1,Frequency, 16.275 kHz
+C1,PosDuty, 50.488 %
+C1,Average,-297.78767 mV
+C1,Period, 61.445 us
+C2,Peak2Peak, 7.4364 V
+C2,Frequency, 16.267 kHz
+C2,PosDuty, 51.138 %
+C2,Average,-348.23859 mV
+C2,Period, 61.474 us
